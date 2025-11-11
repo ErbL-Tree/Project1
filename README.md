@@ -1,1 +1,1 @@
-My text file has readme
+My text file has readme, this is inventory management
